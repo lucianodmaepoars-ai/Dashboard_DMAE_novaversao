@@ -1,0 +1,5 @@
+{
+  "name": "VisitLog Analytics",
+  "description": "A dashboard for analyzing department visit logs from PDF/DOC files using local parsing.",
+  "requestFramePermissions": []
+}
